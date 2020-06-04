@@ -1,0 +1,1 @@
+基于MybatisPlus代码生成器，增加了对Result和QueryObject的封装，在Controller模板中增加了方法
